@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//ficou lindo. pqp.
-
-
 //Creation of struct fila:
 struct Obj_fila{
     //vetor de inteiro
